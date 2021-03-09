@@ -68,7 +68,7 @@ const HeroContent = styled.div`
     max-width: 1600px;
     padding: 20px;
     margin-left: 30px;
-    width: calc(100% - 300px);
+    width: calc(100% - 20%);
     color: #fff;
     background: rgba(0,0,0,0.4);
 
